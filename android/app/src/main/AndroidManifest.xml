@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.exchange_wallet">
+    package="com.example.bmi_calculator">
    <application
-        android:label="exchange_wallet"
+        android:label="Weight Loss Genie"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
